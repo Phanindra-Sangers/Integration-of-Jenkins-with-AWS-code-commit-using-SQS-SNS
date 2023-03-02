@@ -5,7 +5,7 @@ variable "reponame" {
   default = "minfy-repo"
 }
 variable "aws-account-id" {
-  default = "805392809179"
+  default = "replace your account id here"
 }
 
 variable "aws-region" {
